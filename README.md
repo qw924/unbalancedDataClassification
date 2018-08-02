@@ -14,3 +14,4 @@
 ### 4.1. Python: UnbalancedDataset 
 ### 4.2. R: [ubBalance](https://www.rdocumentation.org/packages/unbalanced/versions/2.0/topics/ubBalance) DMwR package
 ### 4.3. Weka: SMOTE supervised filter
+### 4.4. [Paper](https://arxiv.org/pdf/1106.1813.pdf)
